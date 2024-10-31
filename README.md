@@ -22,3 +22,4 @@ Tugas Praktikum Kelas A
 | 16. | Fathya Fatimah Azzahra | https://github.com/praktikum-KeamananSistemInformasi/714220012_Fathya-Fathimah-Azzahra |  |
 | 17. | Waskitho Cito Adiwiguno | https://github.com/praktikum-KeamananSistemInformasi/714220019_Waskitho | https://praktikum-keamanansisteminformasi.github.io/714220019_Waskitho/ |
 | 18. | Rania Ayuni Kartini Fitri | https://github.com/praktikum-KeamananSistemInformasi/714220032_RaniaAyuni |  |
+| 19. | M. Hadi Syatiri | https://github.com/Syatiri/KSI_1194049 | https://syatiri.github.io/KSI_1194049/ |
