@@ -27,4 +27,5 @@ Tugas Praktikum Kelas A
 | 21. | M. Hadi Syatiri | https://github.com/Syatiri/KSI_1194049 | https://praktikum-keamanansisteminformasi.github.io/1194049_M.HadiSyatiri/ |
 | 22. | Wafid Adzka Haifan M | https://github.com/praktikum-KeamananSistemInformasi/714220014_WafidAdzka | https://praktikum-keamanansisteminformasi.github.io/714220014_WafidAdzka/ |
 | 23. | Ukasyah Abdulloh Azzam | https://github.com/praktikum-KeamananSistemInformasi/714220016_UkasyahAbdullohAzzam |  |
+| 24. | Muh. Dany Maruf Riadi | https://github.com/praktikum-KeamananSistemInformasi/714220025_Dany | https://praktikum-keamanansisteminformasi.github.io/714220025_Dany/ |
 
