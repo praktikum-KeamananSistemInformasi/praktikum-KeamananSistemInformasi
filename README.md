@@ -6,7 +6,7 @@ Tugas Praktikum Kelas A
 | ------ | ------ | ------ | ------ |
 | 1. | Gading Khairlambang | https://github.com/praktikum-KeamananSistemInformasi/714220007-Gading | https://praktikum-keamanansisteminformasi.github.io/714220007-Gading/ |
 | 2. | Muhammad Azka Nuril Islami | https://github.com/praktikum-KeamananSistemInformasi/714220001_MuhammadAzkaNurilIslami | https://praktikum-keamanansisteminformasi.github.io/714220001_MuhammadAzkaNurilIslami/ |
-| 3. | Muhammad fathir | https://github.com/praktikum-KeamananSistemInformasi/praktikum_patir |  |
+| 3. | Muhammad fathir | https://github.com/praktikum-KeamananSistemInformasi/praktikum_patir | https://praktikum-keamanansisteminformasi.github.io/praktikum_patir/ |
 | 4. | Muhammad Rafli Alfarisi | https://github.com/praktikum-KeamananSistemInformasi/714220008_MRafli | https://praktikum-keamanansisteminformasi.github.io/714220008_MRafli/ |
 | 5. | Gaizka Wisnu Prawira | https://github.com/praktikum-KeamananSistemInformasi/GaizkaWisnuPrawira | https://praktikum-keamanansisteminformasi.github.io/GaizkaWisnuPrawira/ |
 | 6. | Nayaka Taqwa | https://github.com/praktikum-KeamananSistemInformasi/714220045_NayakaTaqwa | https://praktikum-keamanansisteminformasi.github.io/714220045_NayakaTaqwa/ |
@@ -26,3 +26,4 @@ Tugas Praktikum Kelas A
 | 20. | Dewi Kresnawati | https://github.com/praktikum-KeamananSistemInformasi/714220002_DewiKresnawati | https://praktikum-keamanansisteminformasi.github.io/714220002_DewiKresnawati/ |
 | 21. | M. Hadi Syatiri | https://github.com/Syatiri/KSI_1194049 | https://praktikum-keamanansisteminformasi.github.io/1194049_M.HadiSyatiri/ |
 | 22. | Wafid Adzka Haifan M | https://github.com/praktikum-KeamananSistemInformasi/714220014_WafidAdzka | https://praktikum-keamanansisteminformasi.github.io/714220014_WafidAdzka/ |
+
