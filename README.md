@@ -24,3 +24,4 @@ Tugas Praktikum Kelas A
 | 18. | Rania Ayuni Kartini Fitri | https://github.com/praktikum-KeamananSistemInformasi/714220032_RaniaAyuni | https://praktikum-keamanansisteminformasi.github.io/714220032_RaniaAyuni/ |
 | 19. | Muhammad Rifky | https://github.com/praktikum-KeamananSistemInformasi/714220022_Rifky | https://praktikum-keamanansisteminformasi.github.io/714220022_Rifky/ |
 | 20. | Dewi Kresnawati | https://github.com/praktikum-KeamananSistemInformasi/714220002_DewiKresnawati | https://praktikum-keamanansisteminformasi.github.io/714220002_DewiKresnawati/ |
+| 21. | M. Hadi Syatiri | https://github.com/Syatiri/KSI_1194049 | https://praktikum-keamanansisteminformasi.github.io/1194049_M.HadiSyatiri/ |
