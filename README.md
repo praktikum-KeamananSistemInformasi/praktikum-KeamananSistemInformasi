@@ -12,7 +12,7 @@ Tugas Praktikum Kelas A
 | 6. | Nayaka Taqwa | https://github.com/praktikum-KeamananSistemInformasi/714220045_NayakaTaqwa | https://praktikum-keamanansisteminformasi.github.io/714220045_NayakaTaqwa/ |
 | 7. | Ahmad Rifki Ayala | https://github.com/praktikum-KeamananSistemInformasi/praktikum_AhmadRifkiAyalaa | https://praktikum-keamanansisteminformasi.github.io/praktikum_AhmadRifkiAyala/ |
 | 8. | Fikri Faadhilah Ilham | https://github.com/praktikum-KeamananSistemInformasi/714220053_Faad | https://praktikum-keamanansisteminformasi.github.io/714220053_Faad/ |
-| 9. | Sindy Maulina | https://github.com/praktikum-KeamananSistemInformasi/714220018_SINDYMAULINA |  |
+| 9. | Sindy Maulina | https://github.com/praktikum-KeamananSistemInformasi/714220018_SINDYMAULINA | https://praktikum-keamanansisteminformasi.github.io/714220018_SINDYMAULINA/ |
 | 10. | M. Fachriza Farhan | https://github.com/praktikum-KeamananSistemInformasi/714220005_Reza | https://praktikum-keamanansisteminformasi.github.io/714220005_Reza/ |
 | 11. | Audyardha Nasywa Andini | https://github.com/praktikum-KeamananSistemInformasi/714220020_Audyardha-Nasywa-Andini | https://praktikum-keamanansisteminformasi.github.io/714220020_Audyardha-Nasywa-Andini/ |
 | 12. | Balqis Rosa Sekamayang | https://github.com/praktikum-KeamananSistemInformasi/714220006_Balqisrosa | https://praktikum-keamanansisteminformasi.github.io/714220006_Balqisrosa/ |
